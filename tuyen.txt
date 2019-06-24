@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 tuan di an com nhanh
  123
+=======
+tuan di an com nhanh nhanh hihi
+>>>>>>> tuantuan
